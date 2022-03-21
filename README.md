@@ -41,5 +41,5 @@ The database for this project is SQLite and can be access via the node-sqlite3 l
 ## References
 - Web Components - https://developer.mozilla.org/en-US/docs/Web/Web_Components
 - Express - https://expressjs.com/
-- SQLite - https://www.sqlite.org/index. html
+- SQLite - https://www.sqlite.org/index.html
 - node-sqlite3 - https://github.com/mapbox/node-sqlite3
